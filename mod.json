@@ -1,0 +1,9 @@
+{
+	"Name": "ac-130",
+	"Authors": ["Maxinger15"],
+	"Description": "Makes the AC130 drivable",
+	"URL": "",
+	"Version": "0.0.1",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
